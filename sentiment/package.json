@@ -17,5 +17,8 @@
     "nodemon": "^3.0.3",
     "pino": "^8.19.0",
     "pino-pretty": "^10.3.1"
+  },
+  "devDependencies": {
+    "prettier": "^3.8.1"
   }
 }
