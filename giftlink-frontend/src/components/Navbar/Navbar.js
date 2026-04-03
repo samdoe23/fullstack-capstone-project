@@ -20,6 +20,11 @@ export default function Navbar() {
             </a>{" "}
             {/* Updated Link */}
           </li>
+          <li className="nav-item">
+            <a className="nav-link" href="/app/search">
+              Search
+            </a>
+          </li>
         </ul>
       </div>
     </nav>
